@@ -49,7 +49,7 @@
         <dependency>
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>
-            <version>1.10.2</version>
+            <version>1.14.2</version>
         </dependency>
         <!--操作文件的工具类 commons-io-->
         <dependency>
